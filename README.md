@@ -1,4 +1,4 @@
-# ESDL_Early_Adopter
+# ESDL_Early_Adopter Project
 GLOBAL HEATWAVE AND WILDFIRE ANALYSIS BASED ON THE ESDL DATA
 
 ESDL webpage: http://www.earthsystemdatacube.net/
