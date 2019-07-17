@@ -1,7 +1,7 @@
 # ESDL_Early_Adopter
 GLOBAL HEATWAVE AND WILDFIRE ANALYSIS BASED ON THE ESDL DATA
 
-ESDC webpage: http://www.earthsystemdatacube.net/
+ESDL webpage: http://www.earthsystemdatacube.net/
 
 Thanks ESDL team for provision of computing server and guidance. 
 And thanks the ESDL Forum for answering the questions about programming. 
